@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @dchaniel!
-- 👀 I’m interested in robotics, education, and fun IOT projects! 
-- 📫 Email me at danielmchan1 'at' gmail.com
+# Github Profile for @dchaniel!
+I’m interested in robotics, education, and fun IOT projects! 
 
 <!---
 dchaniel/dchaniel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
